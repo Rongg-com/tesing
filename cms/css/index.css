@@ -1,0 +1,27 @@
+.header{
+    background-color: #333;
+    color: white;
+    height: 70px;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    margin-top: 100vh;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(210, 76, 76); 
+
+}
+#v-pills-tab{
+    height: 100%;
+    background-color: #333;
+    color: white;
+    height: 100%;
+    width: auto;
+    padding: 10px;
+}

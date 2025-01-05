@@ -1,0 +1,39 @@
+body{
+    background-size: cover; 
+    background-image: url("https://img.freepik.com/premium-vector/abstract-wireframe-technology-background-presentation-banner-cover_654662-5665.jpg?semt=ais_hybrid"); 
+}
+form {
+    background-repeat: no-repeat; 
+    justify-content: center;
+    text-align: center;
+    border: 3px solid grey;
+    padding: 20px;
+    margin: 5% 0 0 38%;
+    width: 300px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    border-radius: 10px; 
+}
+input{
+    margin: 10px 0;
+    padding: 15px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+button{
+    background-color: #4c68af;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+    border-radius: 5px;
+}
+a{
+    background: rgb(194, 167, 167);
+    padding : 10px;
+    text-decoration: none;
+    color: #fefefe;
+    border-radius: 5%;
+}
